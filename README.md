@@ -21,6 +21,7 @@ If you believe a package should not be on this list because it no longer serves 
 - [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A framework of extensions for Sequences, inspired by Python's itertools, Haskell's standard library, and other things
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - JSON handling in Swift.
 - [swift-parser-generator](https://github.com/pixelspark/swift-parser-generator) - Parser generator
+- [Interstellar](https://github.com/jensravens/interstellar) - Simple and lightweight Functional Reactive Coding in Swift for the rest of us
 
 ### Darwin Specific (OS X, iOS, watchOS, tvOS)
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Swift wrapper around Keychain for iOS and OS X.
